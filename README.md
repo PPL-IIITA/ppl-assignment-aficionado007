@@ -12,7 +12,7 @@ All codes submitted are build and tested on Netbeans IDE 8.0.2
 
 Class Diagram :
 
-The class diagram is uploaded as q1classdiag.
+The class diagram is uploaded as q1classdiag.png
 
 Documentation :
 
