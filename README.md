@@ -1,9 +1,9 @@
+
 # ppl-assignment-aficionado007
 ppl-assignment-aficionado007 created by GitHub Classroom
-RIT2015003- Geetika Bakshi
+RIT2015003- Geetika Bakshi.
 
-Built System :
-
+Run code as-cd ppl-assignment-aficionado007     java ques1.QUES1
 Operating System - Ubuntu 16.04
 
 OS Type - 64 bit
